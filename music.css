@@ -1,0 +1,35 @@
+
+.fs-30 {
+    font-size: 30px;
+}
+
+
+.ff-robot {
+    font-family: 'Rubik Iso', monospace;
+}
+
+.text-blue {
+    color: blue;
+}
+
+
+.aligning {
+    text-align: center;
+}
+
+
+.listyle {
+    list-style-position: inside
+}
+
+.yellow {
+    color: rgb(177, 177, 46);
+}
+
+.leftalign {
+    text-align: left;
+}
+
+.margin {
+    margin: 12px;
+}
